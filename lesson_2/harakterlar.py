@@ -1,0 +1,5 @@
+nom=str(input('Ixtiyoriy matn kiriting: '))
+nom1=len(nom)
+print(f"matn uzunligi: {nom1} ")
+print(f"kichkina shrift: {nom.lower()}")
+print(F"kotta shrift: {nom.upper()}")
